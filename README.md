@@ -1,4 +1,5 @@
 # Customer Churn Analysis
+## ✍️"Project completed May 25. Recent commits reflect code cleanup, improved documentation, and readability improvements."
 
 ## Project Overview
 This project analyzes customer churn behavior using Python, SQL, and Power BI to identify factors affecting customer retention.
