@@ -9,9 +9,9 @@ The goal of this project is to identify key reasons behind customer churn and pr
 
 ## Tools & Technologies Used
 - Python (Pandas, NumPy)
-- SQL Server
+- SQL 
 - Power BI
-- Excel
+- Database : SSMS
 
 ## Project Workflow
 1. Data Cleaning using Python
